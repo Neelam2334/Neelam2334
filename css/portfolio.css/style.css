@@ -1,0 +1,29 @@
+.center
+{
+    text-align: center;
+    color:red;
+}
+body
+{
+    background-color:beige;
+}
+
+h2
+{
+    color:blue;
+}
+
+   table, td, th 
+     {
+  border: 1px solid black;
+  background-color: brown;
+   }
+      
+   p
+   {
+    color:rebeccapurple;
+    background-color: bisque;
+   }
+
+
+

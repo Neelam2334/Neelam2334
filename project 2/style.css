@@ -1,0 +1,58 @@
+header
+{
+    background-color: brown;
+    color:black;
+    padding:20px;
+    text-align:left;
+}
+nav ul
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    
+}
+
+nav ul li {
+    text-align: right;
+} 
+
+nav ul li a
+{
+    display:block;
+    color: white;
+    text-decoration: none;
+}
+ 
+main
+{
+    background-color: white;
+    margin: 20px;
+
+}
+
+.abc
+{
+    text-align: right;
+}
+
+.def
+{
+    text-align: center;
+}
+
+
+.left
+{
+    text-align: left;
+}
+
+footer{
+    background-color: powderblue;
+    color: black;
+    text-align: center;
+    padding:10px;
+    bottom: 0;
+    width: 100%;
+}
